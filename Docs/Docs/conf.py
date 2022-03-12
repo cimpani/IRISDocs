@@ -21,7 +21,7 @@
 
 project = 'irisdoc'
 copyright = '2021, eMerlin'
-author = 'eMerlin'
+author = 'irisdoc'
 
 # The short X.Y version
 version = ''
@@ -132,7 +132,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'eMerlin.tex', 'eMerlin Documentation',
-     'eMerlin', 'manual'),
+     'irisdoc', 'manual'),
 ]
 
 
@@ -141,7 +141,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'emerlin', 'eMerlin Documentation',
+    (master_doc, 'irisdoc', 'eMerlin Documentation',
      [author], 1)
 ]
 
@@ -152,7 +152,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'eMerlin', 'eMerlin Documentation',
+    (master_doc, 'irisdoc', 'eMerlin Documentation',
      author, 'eMerlin', 'One line description of project.',
      'Miscellaneous'),
 ]

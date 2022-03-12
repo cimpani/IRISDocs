@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'eMerlin'
+project = 'iris doc'
 copyright = '2021, eMerlin'
 author = 'eMerlin'
 
